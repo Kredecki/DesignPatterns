@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mszcz\\Documents\\repos\\DesignPatterns\\Builder\\Builder\\Builder.csproj": {}
+    "C:\\Users\\mszcz\\Documents\\repos\\DesignPatterns\\Builder\\Builder.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mszcz\\Documents\\repos\\DesignPatterns\\Builder\\Builder\\Builder.csproj": {
+    "C:\\Users\\mszcz\\Documents\\repos\\DesignPatterns\\Builder\\Builder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mszcz\\Documents\\repos\\DesignPatterns\\Builder\\Builder\\Builder.csproj",
+        "projectUniqueName": "C:\\Users\\mszcz\\Documents\\repos\\DesignPatterns\\Builder\\Builder.csproj",
         "projectName": "Builder",
-        "projectPath": "C:\\Users\\mszcz\\Documents\\repos\\DesignPatterns\\Builder\\Builder\\Builder.csproj",
+        "projectPath": "C:\\Users\\mszcz\\Documents\\repos\\DesignPatterns\\Builder\\Builder.csproj",
         "packagesPath": "C:\\Users\\mszcz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mszcz\\Documents\\repos\\DesignPatterns\\Builder\\Builder\\obj\\",
+        "outputPath": "C:\\Users\\mszcz\\Documents\\repos\\DesignPatterns\\Builder\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

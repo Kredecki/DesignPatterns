@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "26YH2kv3fMBhYo+M99Z61iEMIHXaWWnC/V/9m9AbTxg0BPOoLc/FVtxDZ8RM5x9RymEDLRMQjLjbjuNL/fnSjA==",
+  "dgSpecHash": "K2ZNm8AICY5T6vQJSdo5DBlm5XhlqzYFBABuBDMQDvK4xblqSaYbjzhTyxdMQkDzGk0aJucDgshmpsVUkYlTVw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mszcz\\Documents\\repos\\DesignPatterns\\Builder\\Builder\\Builder.csproj",
+  "projectFilePath": "C:\\Users\\mszcz\\Documents\\repos\\DesignPatterns\\Builder\\Builder.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
